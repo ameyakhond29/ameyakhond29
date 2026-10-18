@@ -18,7 +18,7 @@ I build practical data and AI systems that connect reliable data pipelines with 
 
 ### Languages
 
-`Python` · `SQL` · `Java` · `C/C++` · `JavaScript`
+`Python` · `SQL` · `C/C++`
 
 ### Machine Learning & AI
 
@@ -58,9 +58,8 @@ I build practical data and AI systems that connect reliable data pipelines with 
 
 ## Connect With Me
 
-- 🐙 [GitHub](https://github.com/ameyakhond29)
-
-<!-- Add your LinkedIn URL here when ready. -->
+- 🐙 [LinkedIn:](https://www.linkedin.com/in/ameya-khond-615539248/)
+- 🐙 [Email:](ameyakhond29@gmail.com)
 
 ---
 
