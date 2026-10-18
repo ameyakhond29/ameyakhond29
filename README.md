@@ -58,8 +58,8 @@ I build practical data and AI systems that connect reliable data pipelines with 
 
 ## Connect With Me
 
-- 🐙 [LinkedIn:](https://www.linkedin.com/in/ameya-khond-615539248/)
-- 🐙 [Email:](ameyakhond29@gmail.com)
+- 🐙 [LinkedIn](https://www.linkedin.com/in/ameya-khond-615539248/)
+- 📧 [Email](ameyakhond29@gmail.com)
 
 ---
 
