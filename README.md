@@ -1,7 +1,7 @@
 # Hi, I'm Ameya Khond 👋
 
 ### MS Applied Data Intelligence Student @ San José State University
-### Data Science · Machine Learning · Deep Learning · GenAI · Data Engineering
+### Data Science · Machine Learning · Data Analyst · Software Engineer · Data Engineering
 
 I build practical data and AI systems that connect reliable data pipelines with useful machine-learning applications. My current interests include large language models, privacy-aware personalization, autonomous vehicles, causal inference, and production-oriented ML systems.
 
