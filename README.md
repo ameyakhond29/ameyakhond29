@@ -26,7 +26,7 @@ I build practical data and AI systems that connect reliable data pipelines with 
 
 ### Data Engineering & Analytics
 
-`Apache Spark` · `PySpark` · `Apache Kafka` · `Apache Airflow` · `MLflow` · `Pandas` · `NumPy` · `PostgreSQL` · `SQLite` · `Parquet`
+`Apache Spark` · `PySpark` · `Apache Kafka` · `Apache Airflow` · `MLflow` · `Pandas` · `NumPy` · `PostgreSQL` · `SQLite` · `Databricks`
 
 ### Applications & Tools
 
